@@ -1,0 +1,19 @@
+2-Due App: 
+
+Wants: 
+
+i want there to be a choice betweena night and day mode so the user can change 
+the contrast inside the app if they're in a dark environment. 
+
+i want to have local storage accessible to the user and to me. 
+
+since this is an app that i genuinely want to use i want to make a button that 
+prompts the user for for a password and uses an if conditional statement to allow the user to enter the admin version of the app which will be where i store all of my reminders. This will replace the need for a database until i have the knowledge to do it that way. i can also always add users that will have their own password. 
+
+Things I'll Need To Learn For This Project: 
+
+More in depth understanding of html forms and how to append them to the main app list. 
+
+local storage using JS 
+
+etc... 
